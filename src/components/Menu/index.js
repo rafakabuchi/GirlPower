@@ -12,9 +12,9 @@ function Menu () {
             <img className="Logo" src={Logo} alt="Logo Girl Power" />
             </a>
 
-            <Button as="a" className="ButtonLink" href="./">
+           {/* <Button as="a" className="ButtonLink" href="./">
                 Novo Vídeo
-            </Button>
+            </Button>*/}
         </nav>
     );
 }

@@ -14,7 +14,7 @@ function App() {
      <BannerMain
          videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
          url={dadosIniciais.categorias[0].videos[0].url}
-         videoDescription={"O que é front-end? Trabalhando na área"}
+         videoDescription={"TALK SHOW CANSADO com Rafaela Saori"}
          />
 
          <Carousel
@@ -47,7 +47,7 @@ function App() {
             category={dadosIniciais.categorias[5]}
         />
 
-
+    <Footer/>
 
     </div>
   );
